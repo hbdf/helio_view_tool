@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+HelioViewTool::Renderer.copyright 'Helio Duarte', 'All rights reserved'
+```
 
 ## Development
 
